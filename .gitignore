@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Thư mục môi trường ảo
+venv/
+env/
+ENV/
+.venv/
+
+# Tệp cấu hình IDE
+.idea/
+.vscode/
+
+# Tệp log
+*.log
+
+# Tệp tạm thời
+*.tmp
+*.temp
+
+# Tệp nhạy cảm
+*.env
+*.secret
+
+# Thư mục chứa dữ liệu
+data/
+lookup_result.txt
