@@ -49,7 +49,7 @@ Aside from the ***chrome extensions*** and key functions in ***analysis*** and *
 ***1) synonym suggestion*** shows you synonyms of your spoken words.
 
 ***2) word frequency*** shows how often you use individual words.
-
+`
 ***3) fluency*** shows how fluent you are in a-few-seconds segments. One to a few seconds chunk will be shown in each line.
 
 ***4) turn taking*** shows how much each speaker speaks among others.
